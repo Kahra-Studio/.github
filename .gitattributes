@@ -1,0 +1,2 @@
+# Görsel üretme betiği organizasyonun dil istatistiklerinde görünmesin
+*.py linguist-detectable=false
